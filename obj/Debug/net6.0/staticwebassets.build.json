@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "siTeGk6huAF8pLzOQ0Ss/rm0Jom+QJBjpcPD9Ou6gLA=",
+  "Hash": "ZRokISJ6eOA1jrh+iv5d8Ifu+/27p7gaTdgWT9VBk8g=",
   "Source": "portafolio_asp.net_Core6",
   "BasePath": "_content/portafolio_asp.net_Core6",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/bladimir/Documentos/GitHub/portafolio_asp.net_Core6/obj/Debug/net6.0/scopedcss/projectbundle/portafolio_asp.net_Core6.bundle.scp.css"
+    },
+    {
+      "Identity": "/home/bladimir/Documentos/GitHub/portafolio_asp.net_Core6/wwwroot/css/custom.css",
+      "SourceId": "portafolio_asp.net_Core6",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/bladimir/Documentos/GitHub/portafolio_asp.net_Core6/wwwroot/",
+      "BasePath": "_content/portafolio_asp.net_Core6",
+      "RelativePath": "css/custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/custom.css"
     },
     {
       "Identity": "/home/bladimir/Documentos/GitHub/portafolio_asp.net_Core6/wwwroot/css/site.css",
